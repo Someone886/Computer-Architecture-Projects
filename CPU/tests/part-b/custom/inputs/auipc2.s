@@ -1,0 +1,3 @@
+auipc t0, 0x100
+auipc t0, 0x10
+auipc t0, 0x1
